@@ -1,0 +1,9 @@
+<h4 style="text-align: left;"><span><br>Welcome </span><span id="studentname">-</span><span> to Week 1 of CSE3PPE!</span><br></h4>
+<script type="text/javascript">
+    // <![CDATA[
+    Y.on('domready', function() {
+        var s = Y.one('a[title="View profile"]').getHTML().split(" ")[0];
+        document.getElementById("studentname").innerHTML = s;
+    });
+    // ]]>
+</script>
