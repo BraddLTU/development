@@ -17,3 +17,26 @@ display: inline-block;
   height: 50px; /* Height of new image */
   padding-left: 50px; /* Equal to width of new image */	
 }
+
+ul.section li.activity {
+	padding: 0.4rem 1rem;
+}
+
+.path-course-view li.activity>div {
+	padding: 16px;
+    border: 1px solid #AAC4C8;
+}
+
+.section .activity .actions {
+	top:25px;
+}
+
+.path-course-view li.activity span.autocompletion img {
+display: inline-block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url(https://braddltu.github.io/development/Templates/Images/icons/activity-book-icon.svg) no-repeat;
+  width: 20px; /* Width of new image */
+  height: 20px; /* Height of new image */
+  padding-left: 20px; /* Equal to width of new image */		
+}
