@@ -3,7 +3,7 @@ display: inline-block;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   background: url(https://braddltu.github.io/development/Templates/Images/icons/activity-book-icon.svg) no-repeat;
-  width: 40px; /* Width of new image */
-  height: 40px; /* Height of new image */
-  padding-left: 40px; /* Equal to width of new image */	
+  width: 50px; /* Width of new image */
+  height: 50px; /* Height of new image */
+  padding-left: 50px; /* Equal to width of new image */	
 }
