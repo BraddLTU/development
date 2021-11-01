@@ -1,5 +1,5 @@
 .book img.activityicon {
-display: block;
+display: inline-block;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   background: url(https://braddltu.github.io/development/Templates/Images/icons/activity-book-icon.svg) no-repeat;
